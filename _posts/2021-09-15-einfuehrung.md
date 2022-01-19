@@ -1,6 +1,6 @@
 ---
 title: "Wo bin ich gestartet"
-date: 2021-09-27
+date: 2021-09-15
 ---
 
 Bibliothekssoftware ist mir nicht unbekannt, da ich vor dem Studium eine Ausbildung in der Bibliothek gemacht habe. Dort erleichterte und unterstütze mich die Bibliothekssoftware in der Erledigung meiner täglichen Aufgaben. Nach der Ausbildung arbeitete ich zudem 3,5 Jahre in Bibliotheken und kann mich rückwirkend an keinen Arbeitstag erinnern, an dem ich nicht mit der vorhandenen Bibliothekssoftware arbeitete. Im Gegenteil kann ich mich sehr gut daran erinnern, wie es war, wenn die Software mal nicht funktionierte oder aufgrund eines Updates für einen Moment nicht genutzt werden konnte. 
